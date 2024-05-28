@@ -1,4 +1,4 @@
-name: Deployment
+name: Deployment with 3 jobs
 on: push
 jobs:
   lint:
